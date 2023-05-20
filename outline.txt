@@ -1,9 +1,0 @@
-Linear Regression
-    Linear Regression is a method of prediction that will take the give inputs and graph a line 
-    representing the general pattern the data follows.
-
-Calculation Steps
-    - SSxx = Σ(line_x - x)^2                            Sum of squares of X
-    - SSxy = Σ(line_x - x) * (line_y - y)               Sum of squares of X & Y
-    - m = SSxy/SSxx                                     Finding slope
-    - b = line_y - m * line_x                           Finding the y intercept
