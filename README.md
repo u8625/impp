@@ -1,3 +1,3 @@
-# Neural Networks
+# IMPp Spring 2023
 
-A few examples of the small neural network based projects that I have worked on.
+Some of the projects I talk about in my presentation.
